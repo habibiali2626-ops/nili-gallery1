@@ -52,23 +52,28 @@ input{width:90%;padding:8px;margin:5px}
 <div style="background:#e76f00;color:white;padding:25px;margin-bottom:20px;"><h1>🍊 NILI GALLERY 🍊</h1><h2>نیلی گالری</h2><p>خلق یادگاری‌های خاص</p></div>
 
 <div class="products">
+
 <div class="card">
+<img src="/-2147483648_-210125.jpg" alt="بوک مارک MDF طرح گل" style="width:100%; border-radius:12px;">
 <h2>بوک مارک MDF طرح گل</h2>
-<h3>89,000 تومان</h3>
+<h3>250000 تومان</h3>
 <button onclick="buyProduct('بوک مارک MDF طرح گل')">خرید</button>
 </div>
 
 <div class="card">
+<img src="/-2147483648_-210125.jpg" alt="بوک مارک اسم اختصاصی" style="width:100%; border-radius:12px;">
 <h2>بوک مارک اسم اختصاصی</h2>
 <h3>119,000 تومان</h3>
 <button onclick="buyProduct('بوک مارک اسم اختصاصی')">خرید</button>
 </div>
 
 <div class="card">
+<img src="/-2147483648_-210125.jpg" alt="جاکلیدی اسم سفارشی" style="width:100%; border-radius:12px;">
 <h2>جاکلیدی اسم سفارشی</h2>
 <h3>129,000 تومان</h3>
 <button onclick="buyProduct('جاکلیدی اسم سفارشی')">خرید</button>
 </div>
+
 </div>
 
 <div id="orderForm">
